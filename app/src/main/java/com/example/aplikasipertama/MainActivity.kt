@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         val button = findViewById<Button>(R.id.btn_tombol)
 
         button.setOnClickListener {
-            textView.text = "Hello Dunia!"
+            textView.text = "Ohayou"
         }
     }
 }
